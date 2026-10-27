@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-YubHub is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://yubhub.co
+YubHub is a UK‑based job feed platform operated by Houtini Ltd. It aggregates live job listings from employer career pages, enriches them with salary, location and skill data, and provides access via a public REST API (open endpoints) and a paid MCP API for advanced feeds. The service supports XML and JSON formats and offers developer tools for integration into hiring pipelines and AI assistants.
+
+**Areas:** JobFeed · Recruitment · API · UK · DataEnrichment
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://yubhub.co)
+- [Documentation](https://yubhub.co/developers/)
+- [API reference](https://yubhub.co/developers/api-reference/)
+- [Pricing](https://yubhub.co/pricing/)
+- [Security](https://yubhub.co/jobs/graduate/security/)
+- [Terms of service](https://yubhub.co/terms/)
+- [Privacy policy](https://yubhub.co/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/yubhub/](https://apis.io/providers/yubhub/).
